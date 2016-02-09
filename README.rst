@@ -19,7 +19,10 @@ The Sense HAT features an 8x8 RGB LED matrix, a mini joystick and the following 
 Buy
 ===
 
-Coming soon
+.. _element14: https://www.element14.com/community/docs/DOC-78155/l/raspberry-pi-sense-hat
+.. _adafruit: https://www.adafruit.com/products/2738
+.. _Amazon USA: http://www.amazon.com/Raspberry-Pi-Sense-HAT-AstroPi/dp/B014HDG74S
+
 
 Installation
 ============
